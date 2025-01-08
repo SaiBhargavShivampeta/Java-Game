@@ -5,9 +5,13 @@ Welcome to the Adventure Game! This is a text-based dungeon crawl game where you
 ## Features
 
 Multiple Room Types: The game includes different types of rooms, such as Monster Room, Treasure Room, and Empty Room.
+
 Combat System: You can attack, block, use items, or attempt to flee when encountering monsters.
+
 Item System: Manage items like potions to heal your player.
+
 Player Stats: Player stats include health, strength, and an inventory of items.
+
 Randomized Room Generation: Each room encounter is randomly chosen from predefined types.
 
 ## Technologies Used
